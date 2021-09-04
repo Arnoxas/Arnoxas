@@ -1,0 +1,9 @@
+{
+	"ip":"Arnoxasgang.aternos.me",
+	"port": 25710,
+	"name": "ArnoxasGang",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ArnoxasGang12345 ArnoxasGang12345",
+	"login-cmd":"/login ArnoxasGang12345"
+}
